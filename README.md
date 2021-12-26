@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g9militantsYT
 - 👀 I’m interested in aerospace engineering and youtube
 - 🌱 I’m currently in school
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me : https://g9militants.wixsite.com/g9militants
 
 <!---
