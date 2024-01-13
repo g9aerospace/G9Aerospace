@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/g9militantsYT/Phoenix" target="_blank">Phoenix</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/g9militantsYT?tab=repositories" target="_blank">https://github.com/g9militantsYT?tab=repositories</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/g9militantsYT?tab=repositories" target="_blank">My profile</a>
 
 - 📫 How to reach me <a href="mailto:g9militants@gmail.com" target="_blank">g9militants@gmail.com</a>
 
